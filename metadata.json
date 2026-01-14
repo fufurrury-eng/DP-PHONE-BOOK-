@@ -1,0 +1,7 @@
+{
+  "name": "NeoLink 2026",
+  "description": "A futuristic 2026 Neo-Glass contact management assistant featuring soft glassmorphism, neon glow aesthetics, and smart administrative controls.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
